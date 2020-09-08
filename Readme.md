@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Olesia .](https://up.htmlacademy.ru/htmlcss/29/user/1414667).
-* Наставник: `Неизвестно`.
+* Наставник: [Арсений Березин] (https://htmlacademy.ru/profile/id263537)
 
 ---
 
